@@ -1,0 +1,23 @@
+{
+  {
+    "id": 1,
+    "title": "ASP.NET Core",
+    "description": "A practical introduction to developing web applications using ASP.NET",
+    "logo": "https://hayy.me/img/LogoLogo-Baybayin.png",
+    "url": "https://hayy.me"
+  }
+  {
+    "id": 2,
+    "title": "React",
+    "description": "A practical introduction to developing web applications using React",
+    "logo": "https://hayy.me/img/LogoLogo-Baybayin.png",
+    "url": "https://hayy.me"
+  }
+  {
+    "id": 3,
+    "title": "Angular",
+    "description": "A practical introduction to developing web applications using Angular",
+    "logo": "https://hayy.me/img/LogoLogo-Baybayin.png",
+    "url": "https://hayy.me"
+  }
+}
